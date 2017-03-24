@@ -1,0 +1,2 @@
+# MachineLearningSVM
+# MachineLearningNaiveBayes
